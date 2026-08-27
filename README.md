@@ -8,7 +8,11 @@
 
 ## 다운로드 및 설치
 
-[Releases](../../releases) 페이지에서 최신 버전의 `Latales_runner-Setup-X.X.X.exe`를 받아 실행하면 자동으로 설치됩니다.
+[Releases](../../releases) 페이지에서 최신 버전을 받아 실행하면 자동으로 설치됩니다.
+
+Release 페이지 하단의 **Assets** 목록에는 파일이 3개 보이는데, 그중 **`Latales_runner-Setup-X.X.X.exe`** 하나만 받으시면 됩니다. `Source code (zip)`/`Source code (tar.gz)`는 GitHub이 자동으로 만들어주는 소스코드 압축파일일 뿐 실행 파일이 아니니 받지 않아도 돼요.
+
+![다운로드할 파일 선택](screenshots/release-assets.jpg)
 
 - 관리자 권한이 필요 없고, 라테일 클라이언트를 따로 설치하지 않아도 바로 실행됩니다.
 - 설치 후 우클릭 메뉴에서 언제든 최신 버전인지 확인/업데이트할 수 있습니다.
