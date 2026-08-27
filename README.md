@@ -101,7 +101,7 @@ Edge/Chrome 등 브라우저가 "이 파일 형식은 일반적으로 다운로�
 ![자율 이동](screenshots/idle-walk.gif)
 
 ## 제작자
-kimbap918
+kimbap918(chipok)
 ![](https://i.imgur.com/cMyuo3o.png)
 
 
