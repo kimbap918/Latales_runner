@@ -17,6 +17,9 @@ You can grab characters walking across your screen with your mouse to place them
 
 ## 다운로드 및 설치 / Download & Installation
 
+### ※ 가장 최신 버전의 릴리즈를 다운받아주시면 됩니다! Note: Please download the latest version of the release!
+
+
 [Releases](../../releases) 페이지에서 최신 버전을 받아 실행하면 자동으로 설치됩니다.  
 Release 페이지 하단의 **Assets** 목록 파일 3개 중 **`Latales_runner-Setup-X.X.X.exe`** 하나만 받으시면 됩니다.   <br>
 
