@@ -1,6 +1,6 @@
 # LaTales_runner
 
-**Source code is private due to proprietary implementation and third-party IP constraints** 
+**This is a fan-made software utilizing assets from LaTale. To respect the original IP and due to internal reasons, the source code is private.** 
 
 
 라테일 캐릭터가 내 데스크톱 위를 자유롭게 돌아다니는 데스크톱 펫 프로그램입니다.  
