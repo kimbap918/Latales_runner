@@ -120,6 +120,9 @@ Supports toggling window interactions, standing idle in place, launch on Windows
 
 ![자율 이동](screenshots/idle-walk.gif)
 
+
+<br>
+
 ## 제작자 / Creator
 kimbap918(chipok)
 ![](https://i.imgur.com/cMyuo3o.png)
