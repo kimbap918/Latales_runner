@@ -1,5 +1,8 @@
 # LaTales_runner
 
+**Source code is private due to proprietary implementation and third-party IP constraints** 
+
+
 라테일 캐릭터가 내 데스크톱 위를 자유롭게 돌아다니는 데스크톱 펫 프로그램입니다.  
 화면 위를 걸어 다니는 캐릭터를 마우스로 잡아서 다른 창 위에 올려둘 수도 있고, 원하는 코디로 자유롭게 꾸밀 수 있어요.  <br>
 
