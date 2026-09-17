@@ -76,5 +76,6 @@
 <tr>
 <td align="center"><img src="pet-19.gif" width="280"/><br><b>스타시커 - 가디언볼</b></td>
 <td align="center"><img src="pet-37.gif" width="280"/><br><b>윈디아 - 부채</b></td>
+<td align="center"><img src="pet-40.gif" width="280"/><br><b>흑영 - 흑랑옥</b></td>
 </tr>
 </table>
