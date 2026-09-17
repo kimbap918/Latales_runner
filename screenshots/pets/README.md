@@ -42,14 +42,15 @@
 <tr>
 <td align="center"><img src="pet-22.gif" width="280"/><br><b>프라이쉬츠 - 쌍권총</b></td>
 <td align="center"><img src="pet-18.gif" width="280"/><br><b>흑영 - 흑영도</b></td>
-<td align="center"><img src="pet-13.gif" width="280"/><br><b>다크체이서 - 체인소드</b></td>
+<td align="center"><img src="pet-40.gif" width="280"/><br><b>흑영 - 흑랑옥</b></td>
 </tr>
 <tr>
 <td align="center"><img src="pet-23.gif" width="280"/><br><b>아그니 - 기간트폴</b></td>
-<td align="center"><img src="pet-09.gif" width="280"/><br><b>검성 - 유성검</b></td>
+<td align="center"><img src="pet-13.gif" width="280"/><br><b>다크체이서 - 체인소드</b></td>
 <td align="center"><img src="pet-30.gif" width="280"/><br><b>게이트키퍼 - 링블레이드</b></td>
 </tr>
 <tr>
+<td align="center"><img src="pet-09.gif" width="280"/><br><b>검성 - 유성검</b></td>
 <td align="center"><img src="pet-14.gif" width="280"/><br><b>엔지니어 - 툴박스</b></td>
 </tr>
 
@@ -76,6 +77,5 @@
 <tr>
 <td align="center"><img src="pet-19.gif" width="280"/><br><b>스타시커 - 가디언볼</b></td>
 <td align="center"><img src="pet-37.gif" width="280"/><br><b>윈디아 - 부채</b></td>
-<td align="center"><img src="pet-40.gif" width="280"/><br><b>흑영 - 흑랑옥</b></td>
 </tr>
 </table>
